@@ -135,4 +135,4 @@ if ! sudo codesign -f -s - "$BACKUP_BIN"; then
     exit 1
 fi
 
-echo "done"
+echo "Patch applied successfully! You can now run CrossOver as usual. with the patch :) and enjoy!"
