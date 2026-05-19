@@ -1,3 +1,7 @@
+# Crossover_Patch
+Contacts:
+ig:@_qiys
+
 
 how to run:
 
@@ -12,5 +16,3 @@ if u have question open an issue, if u have improvements, please suggest it to m
 There is an Uninstaller so you can get back Your Crossover back normally
 
 to codeweavers: dont charge so much for reskinned wine and this wouldnt happen
-# Crossover_Patch
-# Crossover_Patch
