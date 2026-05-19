@@ -6,7 +6,8 @@ echo "1) Apply Patch"
 echo "2) Uninstall Patch"
 echo "3) Exit"
 
-read -r -p "Enter your choice [1-3]: " choice </dev/tty
+# Better way to read user input
+read -p "Enter your choice [1-3]: " choice
 
 case "$choice" in
     1)
