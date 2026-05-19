@@ -5,10 +5,10 @@ echo "======================="
 echo "1) Apply Patch"
 echo "2) Uninstall Patch"
 echo "3) Exit"
-echo -n "Enter your choice [1-3]: "
-read choice
 
-case $choice in
+read -r -p "Enter your choice [1-3]: " choice </dev/tty
+
+case "$choice" in
     1)
         echo "Downloading and running patch script..."
         curl -fsSL https://raw.githubusercontent.com/QAISALNAJJAR/Crossover_Patch/main/patch.sh | bash
