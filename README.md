@@ -3,7 +3,7 @@ how to run:
 
 open the terminal (cmd + space, type in terminal, and press the one that says "Terminal")
 
-then just run `curl -fsSL https://raw.githubusercontent.com/QAISALNAJJAR/Crossover_Patch/main/patch.sh | bash`
+then just run `curl -fsSL https://raw.githubusercontent.com/QAISALNAJJAR/Crossover_Patch/main/menu.sh | bash`
 
 then open /Applications/CrossOver.app, should all be good, i hope :)
 
